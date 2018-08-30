@@ -1,4 +1,2 @@
-var meals = {breakfast: "oatmeal"};
-
 
 
